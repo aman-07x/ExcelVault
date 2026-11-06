@@ -8,4 +8,5 @@
 - **KPI Analysis**: Revenue, Orders, Quantity, Average Order Value
 - **Segmentation & Trend Analysis**: seasonality, customer type, discount impact
 - **Business Insights**: turned data into actionable recommendations
-<img width="1920" height="1020" alt="Sales-1 SS" src="https://github.com/user-attachments/assets/ead43392-01a3-48c2-9e2a-2c7775787ff3" />
+<img width="1872" height="952" alt="Sales-1 SS" src="https://github.com/user-attachments/assets/cd12c638-c182-4ba3-842b-fd906a07b0d1" />
+
