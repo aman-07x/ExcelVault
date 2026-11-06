@@ -1,5 +1,3 @@
-# ExcelVault
-## 🛠️ Tools & Skills
 - **Tool:** Microsoft Excel
 - **DataType:** Structured, transactional sales data (order-level, time-stamped)
 - **Data Cleaning & Validation**: checked for duplicates, missing values and calculation consistency
