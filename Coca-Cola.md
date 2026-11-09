@@ -1,10 +1,10 @@
--Project summary
+**-Project summary**
 
 -Built an interactive Excel dashboard from ten years (FY’09 to FY’18) of Coca-Cola’s profit and loss statement. It shows revenue, margin and net income trends, where each revenue dollar goes, and a revenue-to-net-income bridge, all controlled by a year slicer and dropdown.
 
--Tools & Skills
+**-Tools & Skills**
 
--Tool: Microsoft Excel (PivotTables, Slicers, Power Query, Data Validation)
+**-Tool:** Microsoft Excel (PivotTables, Slicers, Power Query, Data Validation)
 -Data Type: Structured financial statement data (Simfin P&L, USD millions, FY’09 to FY’18)
 -Data Preparation & Validation: unpivoted year columns into a clean table, and checked that gross profit, operating income, pre-tax income and net income reconcile in every year
 -PivotTables: summaries by fiscal year and P&L line item, with calculated fields for margins
