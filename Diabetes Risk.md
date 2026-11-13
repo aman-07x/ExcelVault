@@ -11,7 +11,7 @@ Built an interactive Excel dashboard analysing diabetes risk across 15,000 patie
 - **Dashboard Design:** KPI cards and linked charts (line, bar, column) controlled by slicers for City, Gender, Age, Physical Activity and Family History
 - **KPI Analysis:** Total Patients, % High Risk, Average HbA1c, Average BMI
 - **Dynamic Cards:** fixed the % High Risk card going blank under slicers by using GETPIVOTDATA with IFERROR instead of a fixed cell link
-- 
+
 - **Trend Analysis:**
   - **Age vs Fasting Blood Sugar:** Average fasting blood sugar goes up with every age band, from 148.6 (under 20) to 196.7 (age 70-80). *Conclusion: older patients need more regular sugar checks.*
   - **Stress vs HbA1c:** Average HbA1c rises from 6.6 (stress level 1-2) to 7.1 (stress level 9-10). *Conclusion: higher stress goes together with poorer long-term sugar control.*
@@ -21,5 +21,5 @@ Built an interactive Excel dashboard analysing diabetes risk across 15,000 patie
 - **Business Insights:**
   - 15% of all patients (2,250 of 15,000) are High risk.
   - Sedentary patients are the most at risk: 21.01% are High risk, compared with 14.36% of Moderate patients and 9.78% of Active patients. Sedentary patients are more than twice as likely to be High risk as Active patients.
-  - Conclusion: the hospital should focus its screening and lifestyle programs on sedentary, older and high-stress patients, and promote physical activity as a simple way to lower diabetes risk.*
+  - *Conclusion: the hospital should focus its screening and lifestyle programs on sedentary, older and high-stress patients, and promote physical activity as a simple way to lower diabetes risk.*
     <img width="1920" height="1020" alt="Diabetes Risk SS" src="https://github.com/user-attachments/assets/75199cb1-7e72-419d-a63f-431dda8dfd95" />
